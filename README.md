@@ -23,11 +23,13 @@ At a minimum, your .NET MAUI project should include the  following screens:
 2. A screen to display a list of items retrieved from the API.
 3. A screen to display details about a specific item.
 
-Plan your mobile application. Identify the features you want to include, such as fetching data from the API, displaying the data in a user-friendly way, and allowing users to interact with the data. You should also consider the user interface design, navigation, and any other necessary functionalities. The application should be able to display a list of items, and users should be able to filter the list on two of the data fields.
- 
-Implement error handling and display appropriate error messages if the API call fails.
+Plan your mobile application. Identify how the features will be implemented, think through when and how you will fetch data from the API, think through how the data will be rendered in a user-friendly way, and think through how end-users users will interact with the data. You should also consider the navigation, and how end-user will operate your mobile app.
 
-Test the application on an Android or iOS emulator and ensure that it functions correctly.
+The application should be able to display a list of items from the API, and users should be able to filter the list on two of the data fields.
+ 
+The application should implement error handling and display appropriate error messages if the API call fails.
+
+You will need to test the application on an Android or iOS emulator and ensure that it functions correctly.
 
 ## Deliverables
 The deliverables you will provide will be organized into three assignments.  Each assignment will include honing in on the general requirements listed above. 
