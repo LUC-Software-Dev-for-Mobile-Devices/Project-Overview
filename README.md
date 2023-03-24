@@ -32,7 +32,7 @@ The application should implement error handling and display appropriate error me
 You will need to test the application on an Android or iOS emulator and ensure that it functions correctly.
 
 ## Deliverables
-The deliverables you will provide will be organized into three assignments.  Each assignment will include honing in on the general requirements listed above. 
+You will provide three deliverables that are organized into three assignments.  Each assignment will hone in on the general requirements listed above. 
 
 - Assignment 1 will focus on planning the application. You will  1) identify the API, 2) document the tools and strategies you will use to complete requirements, 3) state the mission and purpose of the app, 4) identify application architecture
 - Assignment 2 will focus on the design of the interface.  You will 1) create wireframes for each screen of your application, 2) code each of the interfaces using XAML and 3) create the necessary event handler methods your application will use.
